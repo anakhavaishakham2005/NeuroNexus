@@ -1,4 +1,4 @@
-# 🧠 NeroNexus Application Form
+## NeuroNexus Application Form
 
 A stylish, responsive web form created for internship applicants at **NeroNexus Innovations**. Built using **HTML5**, **CSS3**, **Bootstrap 5**, and **FontAwesome**.
 
